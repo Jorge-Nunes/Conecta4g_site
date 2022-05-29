@@ -1,10 +1,10 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "BOTAR LINK DA ATUALIZAÇÃO AQUI",
-  "Sms": "BOTAR LINK DO SMS AQUI",
-  "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "https://t.me/apolo_vx",
+  "UrlUpdate": "https://raw.githubusercontent.com/Jorge-Nunes/Conecta4g_site/main/config.json",
+  "Sms": "",
+  "EmailFeedback": "ljlrastreadores@gmail.com",
+  "UrlContato": "",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
   "CheckUser": "true",
   "Udp": [
