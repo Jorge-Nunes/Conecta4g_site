@@ -238,7 +238,7 @@
     },
     {
       "Name": "💙💛🔴💚TODAS1 [SSL]",
-      "FLAG": "todas",
+      "FLAG": "oi",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "104.16.56.6",
@@ -247,8 +247,8 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "💙💛🔴💚TODAS2 [SSL]",
-      "FLAG": "todas2",
+      "Name": "💙💛🔴💚TODAS2 [SSL 2]",
+      "FLAG": "oi",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "mobilidade.cloud.caixa.gov.br",
       "TlsIP": "104.16.57.6",
